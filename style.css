@@ -1,0 +1,95 @@
+body {
+    font-size: 20px;
+    font-family: Franklin Gothic;
+    line-height: 3.0;
+    text-align: center;
+}
+
+.h_menu {
+    text-decoration: none;
+    outline-color: black;
+    list-style: none;
+    font-family: bold;
+}
+
+header {
+    height: 50;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    background-color: navajowhite;
+}
+
+.lesson {
+    float: left;
+    width: 25%;
+}
+
+.lesson img {
+    width: 200px;
+    height: auto;
+}
+
+aside {
+    font-family: helvetica;
+}
+
+.contact {
+    padding: 0 40px 50px 40px;
+    width: 700px;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.contact h3 {
+    font-size: 20px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #dee7ec;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.contact-form {
+    width: 200px;
+    padding-top: 20px;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.contact-form p {
+    font-size: 12px;
+    text-align: center;
+    padding: 20px 0;
+}
+
+input,
+textarea {
+    padding: 10px;
+    width: 200px;
+    margin-bottom: 15px;
+    border: 1px solid #dee7ec;
+}
+
+.button {
+    color: #889eab;
+    background-color: #dee7ec;
+    width: 100px;
+}
+
+.footer {
+    background-color: navajowhite;
+    color: black;
+    font-size: 20px;
+    font-family: Franklin Gothic;
+    line-height: 3.0;
+    text-align: center;
+}
+
+.footer-logo {
+    font-size: 23px;
+    font-family: Georgia;
+    text-align: center;
+}
